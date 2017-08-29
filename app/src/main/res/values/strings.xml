@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="search_btn">Search</string>
+    <string name="search_input_default">Search</string>
+    <string name="dyn_btn_txt">Button from code</string>
+    <string name="search_engine_base_url">https://www.google.com.ua/search?q=</string>
+</resources>
